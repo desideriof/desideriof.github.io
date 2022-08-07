@@ -3,13 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Desiderio Francisco-Bethencourt
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
-
+description: Teledetección y SIG
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/110776601?s=400&u=4392aa41e5ceb9e8394b4b71f9ee3d1f1615821f&v=4
 
 #
 # Flags below are optional
@@ -18,10 +17,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:desideriof@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: desideriof
   instagram:
   linkedin:
   pinterest:
